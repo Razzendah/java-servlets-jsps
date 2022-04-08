@@ -1,4 +1,4 @@
-# spring-boot-mvc
+# java-servlets-jsps
 
 Ejercicio a partir de:
 
